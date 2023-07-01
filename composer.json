@@ -1,6 +1,6 @@
 {
-  "name": "vkcom/vk-php-sdk",
-  "description": "VK PHP SDK",
+  "name": "stule-ru/vk-php-sdk",
+  "description": "VK PHP SDK | Fork with fixes",
   "keywords": [
     "vk",
     "sdk"
