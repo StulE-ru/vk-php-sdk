@@ -16,5 +16,8 @@
     "psr-4": {
       "VK\\": "src/VK"
     }
+  },
+  "config": {
+      "optimize-autoloader": true
   }
 }
